@@ -6,9 +6,11 @@ Pàgina on es mostra el GIF i els seus frames.
 ![image](https://raw.githubusercontent.com/ericsaza-InsBc/M9-svgs_eric/gifs/assets/unown_eric.gif)
 
 # Capturas de pantalla:
-- El GIF.
+- El GIF:
+
 ![image](https://github.com/ericsaza-InsBc/M9-svgs_eric/assets/144876064/20ce9514-5def-4dd6-ab38-912417e4e077)
-- Part dels frames.
+- Part dels frames:
+
 ![image](https://github.com/ericsaza-InsBc/M9-svgs_eric/assets/144876064/452ee13a-871b-45ff-a233-acc5ab089311)
 
 # Aquí l'estructura bàsica del proyecte:
